@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Huy 👋
+
+## I'm a Junior at Ho Chi Minh University of Science!
+* 🌱 I’m currently learning everything about Front-end Development Technologies like JavaScript, ReactJS.
+* 🎯 Goals: Becoming a Full-stack developer.
+* ⚡ Hobbies: Coding, playing football and chess.
+
+### Connect with me 🌎:
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt ="facebook-icon" align="left" width="22px" />][facebook]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt ="linkedin-icon" align="left" width="22px" />][linkedin]
+
+[facebook]: https://fb.com/ghuy000
+[linkedin]: https://www.linkedin.com/in/gia-huy-nguy%E1%BB%85n-8585851a2/
 
 <!--
 **huy27201/huy27201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
