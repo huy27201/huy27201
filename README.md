@@ -8,6 +8,7 @@
 ## My learning projects: 
 * [Wheels of ITAC](https://github.com/huy27201/huy27201.github.io/tree/master/ITACWheelTest): A minigame for the opening ceremony at school.
 * [Weather forecast app](https://github.com/huy27201/Weather-forecast): Forecasting the weather by the city. 
+* [Personal theme](https://github.com/huy27201/huy27201.github.io/tree/master/ElectronTheme)
 
 ## Connect with me 🌎:
 
