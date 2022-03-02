@@ -13,8 +13,8 @@
 
 ## Connect with me 🌎:
 
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt ="facebook-icon" align="left" width="22px" />][facebook]
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt ="linkedin-icon" align="left" width="22px" />][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt ="facebook-icon" align="left" width="35px" />][facebook]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt ="linkedin-icon" align="left" width="35px" />][linkedin]
 
 [facebook]: https://fb.com/ghuy000
 [linkedin]: https://www.linkedin.com/in/huy27201/
