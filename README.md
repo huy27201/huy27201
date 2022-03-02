@@ -6,7 +6,7 @@
 * ⚡ Hobbies: Coding, playing football and chess.
 
 ## My learning projects: 
-* [Xemphim Club](https://github.com/huy27201/movie-app): Movie app cloned from [XemPhim](https://xemphim.club/)).
+* [Xemphim Club](https://github.com/huy27201/movie-app): Movie app cloned from [XemPhim](https://xemphim.club).
 * [Wheels of ITAC](https://github.com/huy27201/huy27201.github.io/tree/master/ITACWheelTest): A minigame for the opening ceremony at school.
 * [Weather forecast app](https://github.com/huy27201/Weather-forecast): Forecasting the weather by the city. 
 * [Electron theme](https://github.com/huy27201/huy27201.github.io/tree/master/ElectronTheme): Personal theme from Themeforest.
